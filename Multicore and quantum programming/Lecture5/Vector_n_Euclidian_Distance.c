@@ -8,8 +8,17 @@
 
 #define N 200000000
 
-int main(int argc, char const *argv[])
-{
+int main(int argc, char const *argv[]){
+/* 
+VIDRAS IOANNIS
+
+-CPU AMD Ryzen 4600H (mobile) 3Ghz
+-12 Cores
+-RAM 32GB 3200 M/T
+-Fedora 41 workstation
+ */
+
+
     int *A = malloc(N * sizeof(int));   // Malloc for dynamic Array A in size of int 4 bytes
     int *B = malloc(N * sizeof(int));   // Malloc for dynamic Array B in size of int 4 bytes
 

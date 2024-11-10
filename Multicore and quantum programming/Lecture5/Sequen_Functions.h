@@ -1,3 +1,13 @@
+/* 
+VIDRAS IOANNIS
+
+-CPU AMD Ryzen 4600H (mobile) 3Ghz
+-12 Cores
+-RAM 32GB 3200 M/T
+-Fedora 41 workstation
+ */
+
+
 void Seq_vectors(int N, int *A, int *B, double *V_angle, double *tot){
     // vectors
     int i;

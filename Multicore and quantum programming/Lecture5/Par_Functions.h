@@ -1,4 +1,15 @@
-    // vectors
+/* 
+VIDRAS IOANNIS
+
+-CPU AMD Ryzen 4600H (mobile) 3Ghz
+-12 Cores
+-RAM 32GB 3200 M/T
+-Fedora 41 workstation
+
+ */
+
+
+// vectors
 void vectors(int N, int *A, int *B, double *V_angle, double *tot){
     int i;
     double ab, sumA, sumB, magA, magB, cosine;
